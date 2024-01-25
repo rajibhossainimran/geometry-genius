@@ -1,0 +1,14 @@
+.Genius{
+    color: rgba(17, 17, 17, 0.60);
+}
+.Genius-container{
+    background-color:  rgba(16, 144, 216, 0.10);
+
+    ;
+}
+input::placeholder {
+    color: rgba(23, 22, 22, 0.6);
+  }
+.card-1{
+    border: 1px solid rgba(17, 17, 17, 0.10);
+  }
